@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Nandishwar's github stats](https://github-readme-stats.vercel.app/api?username=alpha-k911&count_private=false&show_icons=true&theme=tokyonight)
+
+![Nandishwar's github stats](https://github-readme-stats.vercel.app/api?username=alpha-k911&count_private=true&show_icons=true&theme=tokyonight)
