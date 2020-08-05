@@ -1,10 +1,11 @@
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=alpha-k911&color=blue)
+### Hi there 👋 
 
 
 <!--
 **alpha-k911/alpha-k911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=alpha-k911&color=blue)
 
 - 🔭 I’m currently working on Computer Vision
 - 🌱 I’m currently learning ...
