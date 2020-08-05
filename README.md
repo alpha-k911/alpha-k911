@@ -1,4 +1,4 @@
-### Hi there 👋  ![](https://komarev.com/ghpvc/?username=alpha-k911&color=blue)
+### Hi there 👋
 
 
 <!--
