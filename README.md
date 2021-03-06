@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![Nandishwar's github stats](https://github-readme-stats.vercel.app/api?username=alpha-k911&count_private=true&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-k911&layout=compact&hide=php)
+![Nandishwar's github stats](https://github-readme-stats.vercel.app/api?username=alpha-k911&count_private=true&show_icons=true&theme=default) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-k911&layout=compact&hide=php)
 
   [![Linkedin Badge](https://img.shields.io/badge/-Nandishwar%20Kalaru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandishwar-kalaru-238455154/)](https://www.linkedin.com/in/nandishwar-kalaru-238455154/) 
   [![Gmail Badge](https://img.shields.io/badge/-nandishwar.k911@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nandishwar.k911@gmail.com)](mailto:nandishwar.k911@gmail.com)
