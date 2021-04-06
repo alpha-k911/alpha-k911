@@ -27,6 +27,10 @@ jobs:
       
       - name: GitHub metrics as SVG image
         uses: lowlighter/metrics@v3.3
+      - uses: lowlighter/metrics@latest
+        with:
+          # ... other options
+          template: terminal
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
